@@ -18,7 +18,7 @@ def main():
         "We rent and sales cars. This company is based on second hand or branded new cars. All the facility are available here.")
     st.sidebar.write("Md Zeeshan Rasheed ", "\n", "Chairman & CEO")
     st.sidebar.subheader('Contact Us.  \n'
-                         'Email:-  mdzeeshanrasheed@gmail.com')
+                         'Email:-  mdzeeshanrasheed5@gmail.com')
 
     st.sidebar.subheader("+91 8863036281")
 
